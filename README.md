@@ -1,4 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)](https://github.com/risharthpardeshi)
+[![MasterHead]
+(https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwj1x4uTyIz_AhUHzHMBHfU3Ac0QMygEegUIARCdAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&docid=yw3WajrVF6gxGM&w=480&h=360&q=coding%20gif&ved=2ahUKEwj1x4uTyIz_AhUHzHMBHfU3Ac0QMygEegUIARCdAg)](https://github.com/risharthpardeshi) 
+
+<!-- (https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)](https://github.com/risharthpardeshi) -->
 <h1 align="center">Hi 👋, I'm Risharth Pardeshi</h1> 
 <h3 align="center">A passionate MERN-Stack Developer from India</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
