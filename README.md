@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3ZDlzejF0dmdxdzduenp4MHVxZHZhZXMza3RsMXdzbmlkMmI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Risharth Pardeshi</h1> 
 <h3 align="center">A passionate MERN-Stack Developer from India</h3> 
