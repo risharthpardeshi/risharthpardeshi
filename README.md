@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Risharth Pardeshi</h1> 
 <h3 align="center">A passionate MERN-Stack Developer from India</h3> 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/99650506/299889143-3af9e7b0-88e4-48b5-9a9b-4835794f74e6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExNzE4NTgsIm5iZiI6MTcxMTE3MTU1OCwicGF0aCI6Ii85OTY1MDUwNi8yOTk4ODkxNDMtM2FmOWU3YjAtODhlNC00OGI1LTlhOWItNDgzNTc5NGY3NGU2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIzVDA1MjU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4NGJjMzE5Mzk1MDNiODcyN2NhM2I0NGQ0MjdhMmY3NjkwMzc0YTlkNWQxNjg1NjA1MDQxYTFiYTI5ZTJhMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.g7nLXgzFteaAbaV3Cmigdm7YiCDCw3XHMwykoAw64bw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risharthpardeshi&label=Profile%20views&color=0e75b6&style=flat" alt="risharthpardeshi" /> </p>
 
